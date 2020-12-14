@@ -1,0 +1,3 @@
+NRS Resolusi
+- Konsisten untuk membuat program 1x sebulan
+- Membuat Program standar pakai Lavarel
