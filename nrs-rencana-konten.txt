@@ -1,0 +1,4 @@
+Rencana Program Lavarel
+- Membuat CRUD menggunakan Lavarel
+- Membuat WEB Stok 
+  + menggunakan Bootstart
