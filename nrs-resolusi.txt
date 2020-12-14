@@ -1,5 +1,4 @@
 NRS Resolusi
 - Konsisten untuk membuat program 1x sebulan
 - Belajar Lavarel
-- Membuat Program standar pakai Lavarel
 - Menguasai Lavarel
